@@ -1,6 +1,6 @@
 // ===== CONFIGURATIONS =====
 const ebookPrice = "$47.00";
-const checkoutUrl = "https://pay.cakto.com.br/3dqrceo_1165099";
+const checkoutUrl = "https://pay.cakto.com.br/5s4u3gg_1178673";
 
 // Update dynamic price
 document.addEventListener('DOMContentLoaded', () => {
